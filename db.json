@@ -16,7 +16,7 @@
       "id": 3,
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "Make a budget",
@@ -25,8 +25,8 @@
       "id": 4
     },
     {
-      "text": "go to work",
-      "day": "May 10th at 3:30pm",
+      "text": "Pet the dog",
+      "day": "tomorrow",
       "reminder": true,
       "id": 5
     }
