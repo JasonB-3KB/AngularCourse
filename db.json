@@ -16,13 +16,19 @@
       "id": 3,
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Make a budget",
       "day": "today",
-      "reminder": false,
+      "reminder": true,
       "id": 4
+    },
+    {
+      "text": "go to work",
+      "day": "May 10th at 3:30pm",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
