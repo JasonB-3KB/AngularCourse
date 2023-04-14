@@ -13,6 +13,7 @@ body {
 .container {
   max-width: 500px;
   margin: 30px auto;
+  background-image: linear-gradient(gray,white);
   overflow: auto;
   min-height: 300px;
   border: 1px solid steelblue;
@@ -21,7 +22,7 @@ body {
 }
 .btn {
   display: inline-block;
-  background: #e76a0b;
+  background-color: darkblue;
   color: #fff;
   border: none;
   padding: 10px 20px;
